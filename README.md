@@ -1,4 +1,4 @@
-# Archo Subagents
+# Archo Subagents v1.0
 
 A specialized subagent system for Cursor IDE, leveraging the new subagent feature available in nightly/early access builds. This system provides a team of specialized AI agents orchestrated to handle complex development workflows.
 
